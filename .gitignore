@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+media/
+messages_log.jsonl
+logger_session.session*
+tel_logger/config.py
